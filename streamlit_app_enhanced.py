@@ -578,7 +578,7 @@ QUESTIONS = [
       "B"
     ],
     "select_n": 1,
-    "explanation": "",
+    "explanation": "Glacier is more expensive than D/A (about 40%), both provide recovery within the 48hr window, however the task is to provide the most cost-effective solution",
     "tags": [
       "Analytics/Big Data",
       "Compute/EC2",
